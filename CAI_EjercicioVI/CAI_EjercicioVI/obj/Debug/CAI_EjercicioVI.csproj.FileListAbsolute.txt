@@ -1,0 +1,7 @@
+C:\Users\Emanuel\Documents\GitHub\EjercicioVII\CAI_EjercicioVI\CAI_EjercicioVI\bin\Debug\CAI_EjercicioVI.exe.config
+C:\Users\Emanuel\Documents\GitHub\EjercicioVII\CAI_EjercicioVI\CAI_EjercicioVI\bin\Debug\CAI_EjercicioVI.exe
+C:\Users\Emanuel\Documents\GitHub\EjercicioVII\CAI_EjercicioVI\CAI_EjercicioVI\bin\Debug\CAI_EjercicioVI.pdb
+C:\Users\Emanuel\Documents\GitHub\EjercicioVII\CAI_EjercicioVI\CAI_EjercicioVI\obj\Debug\CAI_EjercicioVI.csprojAssemblyReference.cache
+C:\Users\Emanuel\Documents\GitHub\EjercicioVII\CAI_EjercicioVI\CAI_EjercicioVI\obj\Debug\CAI_EjercicioVI.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\GitHub\EjercicioVII\CAI_EjercicioVI\CAI_EjercicioVI\obj\Debug\CAI_EjercicioVI.exe
+C:\Users\Emanuel\Documents\GitHub\EjercicioVII\CAI_EjercicioVI\CAI_EjercicioVI\obj\Debug\CAI_EjercicioVI.pdb
